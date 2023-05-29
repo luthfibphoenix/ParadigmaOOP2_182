@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan", "noPewarisan\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enklapsulasi", "enklapsulasi\enklapsulasi.vcxproj", "{2FE2453C-3B69-463B-ACA0-613FFA11F6EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{987DB62D-ACCC-433E-B453-97E0B9C1599C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{2FE2453C-3B69-463B-ACA0-613FFA11F6EE}.Release|x64.Build.0 = Release|x64
 		{2FE2453C-3B69-463B-ACA0-613FFA11F6EE}.Release|x86.ActiveCfg = Release|Win32
 		{2FE2453C-3B69-463B-ACA0-613FFA11F6EE}.Release|x86.Build.0 = Release|Win32
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Debug|x64.ActiveCfg = Debug|x64
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Debug|x64.Build.0 = Debug|x64
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Debug|x86.ActiveCfg = Debug|Win32
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Debug|x86.Build.0 = Debug|Win32
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Release|x64.ActiveCfg = Release|x64
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Release|x64.Build.0 = Release|x64
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Release|x86.ActiveCfg = Release|Win32
+		{987DB62D-ACCC-433E-B453-97E0B9C1599C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
