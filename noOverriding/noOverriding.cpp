@@ -7,4 +7,9 @@ public:
 		cout << "Hallo saya Function dari base class";
 	}
 };
-
+class drivedClass : public baseClass {
+public:
+	void perkenalan() {
+		cout << "Hallo saya function dari drived class";
+	}
+};
