@@ -47,7 +47,7 @@ public:
 };
 
 int main() {
-	pelajar udin("udin petot", "Laki-laki", "belajarcpp");
+	pelajar udin("Udin Petot", "Laki-laki", "belajarcpp");
 	cout << udin.perkenalan();
 	return 0;
 }
