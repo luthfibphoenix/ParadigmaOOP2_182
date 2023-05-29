@@ -13,3 +13,9 @@ public:
 		cout << "Hallo saya function dari drived class";
 	}
 };
+int main() {
+	drivedClass a;
+	a.perkenalan();
+
+	return 0;
+}
